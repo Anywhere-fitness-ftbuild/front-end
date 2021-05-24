@@ -25,12 +25,12 @@ const RegisterForm = () => {
                 <div>
                     <input type='radio' name='role' value='student'/>
                     <label>Student</label>
-                </div><br/>
+                </div>
 
                 <div>
                     <input type='radio' name='role' value='teacher'/>
                     <label>Teacher</label>
-                </div><br/>
+                </div>
                 
 
                 <button>Register</button>
