@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+
 import RegisterForm from './Components/Register';
 
 function App() {
@@ -8,6 +9,3 @@ function App() {
         <RegisterForm/>
     </div>
   );
-}
-
-export default App;
